@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...building a resume Q&A app using vector search and LLMs. Ask me about my resume [here](https://ask-my-resume.up.railway.app)... or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours
+🔭 I’m currently working on building a resume Q&A app using vector search and LLMs. [Ask](https://ask-my-resume.up.railway.app) me about my resume....or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours!
 
 <!---
 <p align="center">
