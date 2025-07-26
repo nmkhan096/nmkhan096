@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...building a resume Q&A app using vector search and LLMs. Ask me about my resume [here](https://ask-my-resume.up.railway.app)... or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours
+
 <!---
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...building a resume Q&A app using vector search and LLMs. Ask me about my resume [here](https://ask-my-resume.up.railway.app)... or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
