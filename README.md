@@ -1,6 +1,19 @@
 ## Hi there 👋
 
+###
+
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNhYnQzamtjbHNvbnRlMGJiejIwZnR6encxeTZwdXpnY2pwbXM5MyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/YPQ62IX4xd60xJDaBu/giphy.gif"  />
+
+###
+
+I’m a Data Scientist passionate about machine learning, AI, and building cool data-driven products.
+
+✨ This is my little corner of the tech world where I document my journey as a data scientist.
+I’m endlessly curious and love exploring new tools, ideas, and technologies—
+constantly learning, building, and sharing along the way.
+
 🔭 I’m currently working on building a resume Q&A app using vector search and LLMs. [Ask](https://ask-my-resume.up.railway.app) me about my resume....or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours!
+
 
 <!---
 <p align="center">
