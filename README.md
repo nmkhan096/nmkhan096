@@ -12,7 +12,7 @@ I’m a Data Scientist passionate about machine learning, AI, and building cool 
 constantly learning, building, and sharing along the way.
 
 ## some tools I like to use
-<img align="right" height="180" width="180" src="Git-it.png" width="50%" />
+<!--<img align="right" height="180" width="180" src="Git-it.png" width="50%" />-->
 
 <p align="left">
   <a href="https://skillicons.dev">
