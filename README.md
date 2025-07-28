@@ -2,27 +2,38 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNhYnQzamtjbHNvbnRlMGJiejIwZnR6encxeTZwdXpnY2pwbXM5MyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/YPQ62IX4xd60xJDaBu/giphy.gif"  />
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNhYnQzamtjbHNvbnRlMGJiejIwZnR6encxeTZwdXpnY2pwbXM5MyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/YPQ62IX4xd60xJDaBu/giphy.gif"  />
 
 ###
 
 I’m a Data Scientist passionate about machine learning, AI, and building cool data-driven products.
 
-✨ This is my little corner of the tech world where I document my journey as a data scientist.
-I’m endlessly curious and love exploring new tools, ideas, and technologies—
+✨ This is my little corner of the tech world where I document my journey as a data scientist. I’m endlessly curious and love exploring new tools, ideas, and technologies—
 constantly learning, building, and sharing along the way.
 
-🔭 I’m currently working on building a resume Q&A app using vector search and LLMs. [Ask](https://ask-my-resume.up.railway.app) me about my resume....or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours!
+## some tools I like to use
+<img align="right" height="180" width="180" src="Git-it.png" width="50%" />
 
-
-<!---
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,bash" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,gcp,sklearn,pytorch" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,vscode" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,java,bash,mysql,postgres,docker,bitbucket,gitlab,git,github,gcp,grafana,notion,pycharm,pytorch,sklearn,vscode=3)](https://skillicons.dev)
+## current
+🔭 I’m currently working on building a resume Q&A app using vector search and LLMs. [Ask](https://ask-my-resume.up.railway.app) me about my resume....or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours!
+
+<!--[![My Skills](https://skillicons.dev/icons?i=r,python,java,bash,mysql,postgres,docker,bitbucket,gitlab,git,github,gcp,grafana,notion,pycharm,pytorch,sklearn,vscode=3)](https://skillicons.dev)
 
 <!---<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>-->
 
