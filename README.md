@@ -62,7 +62,6 @@ constantly learning, building, and sharing along the way.
 </p>
 
 
-## <br>
 ###
 
 <p align="center" style="margin:-0px;">
