@@ -16,7 +16,7 @@ constantly learning, building, and sharing along the way.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,bash" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,java,bash" />
   </a>
 </p>
 <p align="left">
