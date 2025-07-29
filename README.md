@@ -2,16 +2,47 @@
 
 ###
 
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNhYnQzamtjbHNvbnRlMGJiejIwZnR6encxeTZwdXpnY2pwbXM5MyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/YPQ62IX4xd60xJDaBu/giphy.gif"  />
 
 ###
+<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNhYnQzamtjbHNvbnRlMGJiejIwZnR6encxeTZwdXpnY2pwbXM5MyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/YPQ62IX4xd60xJDaBu/giphy.gif"  />
+
+<!---
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHNvZmV1Mmx2Znk1bTh4azc4NjZkODE5OWdkMHZpMTZ4aXBmYjRmciZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/PQq48ffj6XAmG8h1SU/giphy.gif"  />
+
+###
+--->
+
 
 I’m a Data Scientist passionate about machine learning, AI, and building cool data-driven products.
 
 ✨ This is my little corner of the tech world where I document my journey as a data scientist. I’m endlessly curious and love exploring new tools, ideas, and technologies—
 constantly learning, building, and sharing along the way.
 
-## some tools I like to use
+### let's connect:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nmkhan096/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:nmkhan096@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
+
+<!--
+<p align="left">
+  <a href="https://www.linkedin.com/in/nmkhan096/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:nmkhan096@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
+  </a>
+</p>
+--->
+
+
+
+## 🛠️ some tools I like to use
 <!--<img align="right" height="180" width="180" src="Git-it.png" width="50%" />-->
 
 <p align="left">
@@ -30,8 +61,21 @@ constantly learning, building, and sharing along the way.
   </a>
 </p>
 
-## current
+
+## <br>
+###
+
+<p align="center" style="margin:-0px;">
+  <img aligh= "left" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHNvNnE2c2JieTZhMzhnam91MmlodnE0MGJrOWdraXh6OTgzODFuYSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/JShUDETTm8j83Uuf6b/giphy.gif"  />
+</p>
+
+###
+
+<!---
+ <img aligh= "left" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNhYnQzamtjbHNvbnRlMGJiejIwZnR6encxeTZwdXpnY2pwbXM5MyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kcBsIO0spJCuwwR9Se/giphy.gif"  />
+--->
 🔭 I’m currently working on building a resume Q&A app using vector search and LLMs. [Ask](https://ask-my-resume.up.railway.app) me about my resume....or [build](https://github.com/nmkhan096/ask-my-resume-rag) to ask yours!
+
 
 <!--[![My Skills](https://skillicons.dev/icons?i=r,python,java,bash,mysql,postgres,docker,bitbucket,gitlab,git,github,gcp,grafana,notion,pycharm,pytorch,sklearn,vscode=3)](https://skillicons.dev)
 
