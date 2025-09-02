@@ -18,7 +18,7 @@ I’m a Data Scientist passionate about machine learning, AI, and building cool 
 ✨ This is my little corner of the tech world where I document my journey as a data scientist. I’m endlessly curious and love exploring new tools, ideas, and technologies—
 constantly learning, building, and sharing along the way.
 
-### let's connect:
+### connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nmkhan096/">
